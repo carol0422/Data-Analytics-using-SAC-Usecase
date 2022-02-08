@@ -1,5 +1,5 @@
 # Data-Analytics-using-SAC-Usecase
-Project using SAC digital boardroom - Course: Language of Business
+Project using SAP digital boardroom - Course: Language of Business
 
 ## General Purpose
 As part of the BI team of a multi national company with HQ in Germany you receive the task to develop data models and stories for your colleagues from Controlling.
