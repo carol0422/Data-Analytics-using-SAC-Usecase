@@ -1,4 +1,4 @@
-# Data-Analytics-using-SAC-Usecase
+# Data-Analytics-using-SAP-Usecase
 Project using SAP digital boardroom - Course: Language of Business
 
 ## General Purpose
